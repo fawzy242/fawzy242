@@ -7,7 +7,7 @@
 
 - 🧠 **C#** (.NET Framework | .NET Core | .NET 9)  
 - 🌐 **JavaScript**, **Bootstrap** (JavaScript Native | Beginner React.js)  
-- 🗃️ **SQL Server** — Expert in Query Optimization, Refactoring & Enhancements  
+- 🗃️ **SQL Server** — Expert in Write Query & Optimization, Refactoring & Enhancements  
 - 🧰 Code Refactoring & System Enhancements
 
 ---
