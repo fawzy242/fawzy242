@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Fawzy Ihg**  
-**💻 Software Engineer | Full Stack Developer | Data Analyst | SPV**
+**💻 Software Engineer | Full Stack Web Developer | Data Analyst | SPV**
 
 ---
 
