@@ -42,6 +42,13 @@
 - **Product**: RADSoft Fund System  
 - **Role**: Developer & SPV  
 - 🧭 Focus: Team Leader, Legacy Product Maintenance, Feature Refactoring, and Optimization
+- **Core Features**:
+  - 📌 Unit Registry (Direct & APERD)  
+  - 💰 Investment  
+  - 📝 Fund Admin  
+  - 🧮 Accounting  
+  - 🧠 Compliance  
+  - 💼 Commission
 
 ---
 
