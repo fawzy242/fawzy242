@@ -55,3 +55,8 @@ Interests
 - Reading, learning, and brain teasers
 - Finance, investment, and trading
 - Tech, AI, blockchain, chip, crypto
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/)
+
