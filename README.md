@@ -1,6 +1,12 @@
 # 👋 Hi, I'm **Fawzy Ihg**  
 **💻 Software Engineer | Full Stack Web Developer | Data Analyst | SPV**
 
+### 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fawzyihg)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fawzyihg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fawzy-ihg)
+
 ---
 
 ### 🛠️ Skills & Expertise
@@ -83,18 +89,6 @@
 ### Private Contribution
 <img width="922" height="565" alt="image" src="https://github.com/user-attachments/assets/8300909e-1207-4f2e-b6f0-9ed4cfb085b1" />
 <img width="933" height="558" alt="image" src="https://github.com/user-attachments/assets/c10fd08c-2bf8-451d-b954-dd1d376d9ec7" />
-
-
-
-
----
-
-### 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fawzyihg)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fawzyihg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fawzy-ihg)
-
 
 ---
 
