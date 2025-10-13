@@ -10,6 +10,22 @@
 - 🗃️ **SQL Server** — Expert in Write Query & Optimization, Refactoring & Enhancements  
 - 🧰 Code Refactoring & System Enhancements
 
+### 🧠 System Architecture & Data
+- System Design & Integration (Monolith → Modular/Microservice Transition)
+- API Design & Documentation
+- ETL & Data Analysis (Finance & Asset Management Sector)
+- Business Process Mapping
+
+### 🧠 System Architecture & Data
+- Critical Thinking & Problem Solving
+- Business Development & Strategic Planning
+- Team Supervision & Knowledge Sharing
+- Stakeholder Communication & Requirements Analysis
+
+### 💻 Other Tools & Competencies
+- Visual Studio, VS Code, Postman, SSMS
+- Excel Advanced (Pivot, Power Query)
+
 ---
 
 ### 🚀 Projects & Contributions
