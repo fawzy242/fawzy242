@@ -41,7 +41,7 @@
 #### 🏢 **PT PRIMA SOLUSI COMPUTINDO**
 - **Product**: RADSoft Fund System  
 - **Role**: Developer & SPV  
-- 🧭 Focus: Legacy Product Maintenance, Feature Refactoring, and Optimization
+- 🧭 Focus: Team Leader, Legacy Product Maintenance, Feature Refactoring, and Optimization
 
 ---
 
