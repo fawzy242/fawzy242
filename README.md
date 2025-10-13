@@ -80,6 +80,12 @@
 
 ---
 
+### Private Contribution
+<img width="922" height="565" alt="image" src="https://github.com/user-attachments/assets/8300909e-1207-4f2e-b6f0-9ed4cfb085b1" />
+
+
+---
+
 ### 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fawzyihg)
