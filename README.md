@@ -52,7 +52,7 @@
 
 ---
 
-#### 🏦 **PT SEQUIS LIFE ASURANSI JIWA**
+#### 🏦 **Client PT SEQUIS LIFE ASURANSI JIWA**
 - **Product**: Sequis Asset Management System  
 - **Role**: Developer & Project Development Manager  
 - **Core Features**:
@@ -62,7 +62,7 @@
 
 ---
 
-#### 🏦 **PT GREAT EASTERN LIFE INDONESIA**
+#### 🏦 **Client PT GREAT EASTERN LIFE INDONESIA**
 - **Product**: Great Insurance Management System  
 - **Role**: Developer & Project Development Manager  
 - **Core Features**:
@@ -72,7 +72,7 @@
 
 ---
 
-#### 🏦 **PT SEQUIS ASSET MANAGEMENT**
+#### 🏦 **Client PT SEQUIS ASSET MANAGEMENT**
 - **Product**: Sequis Asset Management System  
 - **Role**: Developer & Project Development Manager  
 - **Core Features**:
