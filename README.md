@@ -93,9 +93,6 @@
 
 ---
 
-### Private Contribution
-<img width="922" height="565" alt="image" src="https://github.com/user-attachments/assets/8300909e-1207-4f2e-b6f0-9ed4cfb085b1" />
-<img width="933" height="558" alt="image" src="https://github.com/user-attachments/assets/c10fd08c-2bf8-451d-b954-dd1d376d9ec7" />
 
 ---
 
