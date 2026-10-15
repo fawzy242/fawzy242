@@ -11,9 +11,9 @@
 
 ### 🛠️ Skills & Expertise
 
-- 🧠 **C#** (.NET Framework | .NET Core | .NET 9)  
-- 🌐 **JavaScript**, **Bootstrap** (JavaScript Native | Beginner React.js)  
-- 🗃️ **SQL Server** — Expert in Write Query & Optimization, Refactoring & Enhancements  
+- 🧠 **C#** (Expert in .NET Framework | .NET Core | .NET 9 | Beginner on Laravel)  
+- 🌐 **JavaScript**, **Bootstrap** (Expert in JavaScript Vanila | Beginner on React.js | Beginner on Vue.js)  
+- 🗃️ **SQL Server** — Expert in Write Query & Optimization, Refactoring & Enhancements (Beginner on Postgree)
 - 🧰 Code Refactoring & System Enhancements
 
 ### 🛠️ System Architecture & Data
